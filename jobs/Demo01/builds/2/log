@@ -1,0 +1,11 @@
+Started by user [8mha:////4AeS7qFWJ7IpfnTtnjX/wP09dxpc4AZJxzMPs1fiBP6dAAAAlx+LCAAAAAAAAABb85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Demo01
+[Demo01] $ /bin/sh -xe /tmp/jenkins8139247866023948391.sh
++ python3 /var/jenkins_home/Auto_test01.py
+創建檔案時發生錯誤: [Errno 2] No such file or directory: 'D:\\Auto_test\\/log_2025-08-19-1726_01.txt'
++ python3 /var/jenkins_home/Auto_test02.py
+創建檔案時發生錯誤: [Errno 2] No such file or directory: 'D:\\Auto_test\\/log_2025-08-19-1726_02.txt'
++ python3 /var/jenkins_home/Auto_test03.py
+創建檔案時發生錯誤: [Errno 2] No such file or directory: 'D:\\Auto_test\\/log_2025-08-19-1726_03.txt'
+Finished: SUCCESS

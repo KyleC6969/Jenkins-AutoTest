@@ -1,0 +1,11 @@
+Started by user [8mha:////4AeS7qFWJ7IpfnTtnjX/wP09dxpc4AZJxzMPs1fiBP6dAAAAlx+LCAAAAAAAAABb85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Demo01
+[Demo01] $ /bin/sh -xe /tmp/jenkins17598580998401700550.sh
++ python3 /var/jenkins_home/Auto_test01.py
+檔案 '/var/jenkins_home/demo_logs/log_2025-08-19-1730_01.txt' 已成功創建。
++ python3 /var/jenkins_home/Auto_test02.py
+檔案 '/var/jenkins_home/demo_logs/log_2025-08-19-1730_02.txt' 已成功創建。
++ python3 /var/jenkins_home/Auto_test03.py
+檔案 '/var/jenkins_home/demo_logs/log_2025-08-19-1730_03.txt' 已成功創建。
+Finished: SUCCESS
